@@ -1,0 +1,11 @@
+Error_ID,Layer,Rule_Violated,X_Coord,Y_Coord
+1,M1,Min_Spacing,120.5,340.2
+2,M2,Min_Width,505.1,495.2
+3,M2,Min_Width,502.4,498.1
+4,M2,Min_Width,508.3,501.5
+5,VIA1,Enclosure,890.1,210.4
+6,M2,Min_Width,499.5,492.8
+7,M1,Min_Spacing,503.2,504.1
+8,M3,Density,220.0,800.5
+9,M2,Min_Width,506.7,490.2
+10,VIA2,Spacing,150.3,600.8
