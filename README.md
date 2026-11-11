@@ -12,7 +12,7 @@ During test-chip tape-outs, reading through thousands of lines of text-based Des
 ## Example Output
 Below is a generated spatial distribution based on a simulated layout error log, successfully isolating a high-density failure zone near the `(500, 500)` coordinate.
 
-![DRC Spatial Defect Distribution](image.png)
+![DRC Spatial Defect Distribution](drc_spatial_heatmap.png)
 
 ## Usage
 1. Ensure Python 3.x is installed alongside `pandas`, `matplotlib`, and `seaborn`.
